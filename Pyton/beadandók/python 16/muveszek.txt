@@ -1,0 +1,25 @@
+neve;született-elhunyt;nemzetisége
+Pablo Picasso;1881-1973;spanyol
+Vincent van Gogh;1853-1890;holland
+Salvador Dalí;1904-1989;katalán,spanyol
+Claude Monet;1840-1926;francia
+Gustav Klimt;1862-1918;osztrák
+Raffaello Sanzio;1483-1520;olasz
+Rippl-Rónai József;1861-1927;magyar
+Leonardo da Vinci;1452-1519;olasz
+Caterina van Hemessen;1528-1588;holland
+Sofonisba Anguissola;1532-1625;olasz
+Bortnyik Sándor;1893-1976;magyar
+Gulácsy Lajos;1882-1932;magyar
+Artemisia Gentileschi;1593-1653;olasz
+Marie Louise Elisabeth Vigée Le Brun;1755-1842;francia
+Victorine Meurent;1844-1927;francia
+Fialka Olga;1848-1930;magyar
+Dénes Valéria;1877-1915;magyar
+Tamara de Lempicka;1898-1980;lengyel
+Frida Kahlo;1907-1954;mexikói
+Amrita Sérgil;1913-1941;magyar,indiai
+Aba-Novák Vilmos;1894-1941;magyar
+Csontváry Kosztka Tivadar;1853-1919;magyar
+Munkácsy Mihály;1844-1900;magyar
+Tihanyi Lajos;1885-1938;magyar

@@ -1,0 +1,37 @@
+en
+conf t
+hostname Sw4
+enable secret suti
+line con 0
+password suti
+login
+exit
+service password-encryption
+banner motd #Warning! Access Only!!#
+int vlan 1
+ip add 192.168.1.1 255.255.255.0
+no sh
+exit
+line vty 0 15
+password suti
+login
+exit
+exit
+copy ru st
+
+
+
+
+telnet password:
+line vty 0 15
+password suti
+login
+exit
+
+IP és átjárót ad meg:
+int vlan 1
+ip add X
+ip default-gateway X
+int vlan 1
+no sh
+exit

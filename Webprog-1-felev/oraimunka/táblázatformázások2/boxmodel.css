@@ -1,0 +1,23 @@
+div {
+    width: 80%;
+}
+div:nth-child(odd) p:nth-child(odd) {
+    color: white;
+    background-image: radial-gradient(peachpuff, rgb(251, 206, 177));
+    
+}
+div:nth-child(even) p:nth-child(even) {
+    color: white;
+    background-image: radial-gradient(rgb(0, 163, 108), peachpuff);
+}
+
+p {
+    width: 20px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 0px;
+    display: inline-block;
+    display: table-cell;
+    
+}

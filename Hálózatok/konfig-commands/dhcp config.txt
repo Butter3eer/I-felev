@@ -1,0 +1,11 @@
+en
+conf t
+ip dhcp pool XXX           (dhcp neve / ezzel belépek egyből a dhcp pool-ba)
+default-router XXX.XXX.X.X     (router adott lábának [nyílásának] az ip címe)
+network XXX.XXX.X.X XXX.XXX.XXX.XXX        (alhálózat ip címe + maszk)
+
+
+
+
+security passwords min-length X                (minimális karakter mennyiség / szám)
+

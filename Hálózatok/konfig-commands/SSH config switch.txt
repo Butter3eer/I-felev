@@ -1,0 +1,14 @@
+en
+conf t
+int vlan 1
+ip add XXX.XXX.X.X XXX.XXX.XXX.XXX
+no sh
+hostname
+ip domain name admin
+crypto key generate rsa
+enable password admin
+username admin password X
+ip ssh version 2
+line vty 0 15
+transport input ssh
+login local

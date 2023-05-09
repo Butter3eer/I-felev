@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(254, 242, 220);
+    color: rgb(71, 54, 37);
+}
+#menu {
+    list-style-type: none;
+}
+#folyok {
+    list-style-image: url("list_image.png");
+    list-style-type: disc;
+}
+
+table, tr, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    width: 40%;
+}

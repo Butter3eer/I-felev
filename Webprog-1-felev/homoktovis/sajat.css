@@ -1,0 +1,28 @@
+body {
+    background-image: url("images/hatter.png");
+}
+
+.card {
+    border-radius: 0%;
+}
+
+nav {
+    margin-top: 25px;
+}
+
+.nav-link {
+    color: orange;
+    font-style: italic;
+}
+
+.jumbotron {
+    background-color: orange;
+}
+
+#kezdolap {
+    height: 250px;
+}
+
+#kezdolap h1 {
+    font-size: 60px;
+}

@@ -1,0 +1,57 @@
+
+body {
+    background-color:lightskyblue;
+    color: darkblue;
+}
+
+table{
+    background-image: linear-gradient(rgb(217, 130, 63) ,rgb(242, 193, 155));
+    color:darkblue;
+    width: 29%;
+    float:left;
+    word-spacing:1px;
+    border:1px solid red;
+    margin-right: 20px;
+    margin-left:20px;
+    margin-bottom: 20px;
+}
+
+td{
+    height:150px;
+    color:black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th{
+    text-align: left;
+    border-bottom: 2px dotted orangered;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 8px;
+    width: auto;
+    max-width: 300px;
+    height: 150px;
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 16pt;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    
+}
+
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,28 @@
+1. RAM
+
+2.A ROM (angolul Read-Only Memory): egy olyan elektrotechnikai eszköz, amely csak olvasható adatok tárolására alkalmas memória.
+tartalma nem változtatható, adatok benne véglegesek, tárolt adatokat típustól függően korlátlan vagy korlátozott ideig őrzi meg.
+
+3. RAM (az angol Random Access Memory): egy véletlen elérésű írható–olvasható adattároló eszköz.
+a ram tárolja a cpu által végrehajtandó programokat és a feldolgozásra váró adatokat, az adatok csak addig maradnak meg benne míg a számítógép feszültség alatt van.
+
+4.PROM: Programozható ROM (Programmable Read-Only Memory) Speciális készülékkel (PROM programozó) egyszer írható memória típus. Az írás során speciális belső kapcsolatokat éget át a készülék, amely kapcsolat már nem állítható helyre.
+EPROM: Törölhető és programozható ROM (Erasable Programmable Read-Only Memory). A memóriába írt tartalom ultraibolya (UV) fénnyel törölhető, majd a memória újraírható.
+Flash memória vagy EEPROM: Elektromosan törölhető ROM (Electrically Erasable Programmable Read-Only Memory). Az írási és törlési művelethez már nem kell a memóriát kiépíteni. Az írási és olvasási ciklusai viszonylag lassúak, az egyéb memóriákhoz képest.
+
+5.Statikus RAM, SRAM (ang. Static Random Access Memory). Minden memóriacellát egy kétállapotú tároló alkot, amelyet több tranzisztor (általában 4 vagy 6 db) alkot, ezért bonyolultabb, és drágább kivitelű. Főként processzor regisztereiként, gyorsítótárakban (cache) alkalmazzák. Előnyei:
+fogyasztása rendkívül kicsi
+nagyságrendekkel nagyobb a sebessége, mint a dinamikus RAM-nak
+nem szükséges a tartalmat frissíteni, tápenergia meglétéig tárol.
+Dinamikus RAM, DRAM (ang. Dynamic Random Access Memory). Egy memória cellát egy kondenzátor és egy tranzisztor épít fel. Az információt addig tárolja, amíg a kondenzátor ki nem sül. Az információ elvesztését kiküszöböli a memória frissítése. Előnye az olcsósága, kis mérete, hátránya a frissítés szükségessége, valamint kisebb sebessége. Ennek a népszerűbb változata a DDR SDRAM.
+
+6.Flash memória vagy EEPROM: Elektromosan törölhető ROM (Electrically Erasable Programmable Read-Only Memory). Az írási és törlési művelethez már nem kell a memóriát kiépíteni. Az írási és olvasási ciklusai viszonylag lassúak, az egyéb memóriákhoz képest.
+Itt tárolódnak azok a beállítások amit a BIOS-ban eszközölni lehet, pl a merevlemez típusa.
+
+7. a ram egy bite-nyi információt tároló részét memória rekesznek nevezzük. A memóriarekeszek sorszámát címnek nevezzük, a CPU ennek alapján találja meg a keresett információt a RAM-ban.
+
+8. RAM-tokozási fajták: SIMM; DIMM; SO-DIMM.
+
+9. A CPU az északi hidat használja a RAM–mal való összes kommunikációra.
+
+10. Kingston, Samsung, Corsair Components, HyperX, Kingmax

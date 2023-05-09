@@ -1,0 +1,4 @@
+f.read(méret) 
+Legalább a méretnek megfelelő mennyiségű adatot olvas a fájlból 
+és azt sztring objektumként adja vissza. 
+Ha nem adunk méretet, akkor a fájl végéig olvas.

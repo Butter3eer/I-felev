@@ -1,0 +1,9 @@
+en
+conf t
+ip domain-name cisco.com
+crypto key generate rsa
+username admin privilege 15 secret cisco
+line vty 0 15
+transport input ssh
+privilege level 15
+login local

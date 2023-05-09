@@ -1,0 +1,1 @@
+['ponty', 'süllő', 'keszeg', 'harcsa', 'kecsege', 'csuka', 'compó']

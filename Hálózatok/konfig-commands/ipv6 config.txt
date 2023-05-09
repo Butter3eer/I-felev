@@ -1,0 +1,8 @@
+en
+conf t
+ipv6 unicast-routing
+int g0/0/0
+ipv6 enable
+ipv6 address A::1/64
+ipv6 add FE80::1 link-local
+no sh

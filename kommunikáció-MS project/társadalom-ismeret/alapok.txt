@@ -1,0 +1,12 @@
+mi a kommunikáció:
+	a kommunikáció információk, ismeretek, érzelmek átadása jelrendszerrel
+
+a roman jacobson-féle modell:
+adó -- üzenet -- vevő
+
+a kommunikáció funkciói:
+	érzelmi, motivációs, információs, ellenőrzési funkció
+jelrendszerek:
+	verbális, non verbális(vizuális, vokális, egyéb jelek)
+kommunikációs stílusok:
+	passzív, agresszív, passzív-agresszív, asszertív

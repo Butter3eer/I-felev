@@ -1,0 +1,20 @@
+thead {
+    background-color: rgb(112,173,71);
+    color: white;
+}
+
+tbody tr:nth-child(even) {
+    background-color: white;
+    color: black;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: rgb(226,239,218);
+    color: black;
+}
+
+tfoot {
+    background-color: rgb(255,242,204);
+    color: black;
+    font-weight: bold;
+}

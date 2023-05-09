@@ -1,0 +1,25 @@
+.navbar {
+    background-color: wheat;
+}
+
+h2 {
+    color: darkblue;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 0px 8px;
+    font-size: 110%;
+}
+
+footer {
+    background-color: cornsilk;
+}
+
+.tovabbi {
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+ul {
+    
+}

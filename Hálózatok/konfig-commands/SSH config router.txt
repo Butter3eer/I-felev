@@ -1,0 +1,16 @@
+en
+conf t
+hostname
+ip domain name admin
+crypto key generate rsa
+
+general key: 360-2048 if 512 or larger it may take a longer time
+
+username admin password XX
+ip ssh version 2
+line vty 0 15
+transport input ssh
+login local
+
+command:
+ssh-l XX (ip cím)

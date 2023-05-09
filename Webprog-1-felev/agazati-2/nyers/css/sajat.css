@@ -1,0 +1,27 @@
+html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+}
+
+.row, .jumbotron{
+	background-color: rgba(255,255,255,0.6);			
+	margin-bottom: 15px;
+	border-radius: 0px;
+}
+
+/* Innen kezd a stíluslap beállításait! */
+.teljes_szeles, button {
+	width: 100%;
+}
+
+body {
+	background-image: linear-gradient(#5f9ea0, #66ddaa);
+}
+
+p {
+	text-align: justify;
+}
+
+label {
+	font-weight: bold;
+}
